@@ -5,3 +5,8 @@
 * JPA<br/>
 * H2 (embeded Database)<br/>
 * Java 1.8<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+Thank you for visiting my [GitHub] (https://github.com/prateekmulye), dont forget to check out my [LinkedIn] (https://www.linkedin.com/in/prateekmulye/).
