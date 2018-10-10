@@ -7,6 +7,7 @@
 * Java 1.8<br/>
 <br/>
 <br/>
-<br/>
-<br/>
-Thank you for visiting my [GitHub] (https://github.com/prateekmulye), dont forget to check out my [LinkedIn] (https://www.linkedin.com/in/prateekmulye/).
+Thank you for visiting my [GitHub], dont forget to check out my [LinkedIn].
+
+[GitHub]: https://github.com/prateekmulye
+[LinkedIn]: https://www.linkedin.com/in/prateekmulye/
